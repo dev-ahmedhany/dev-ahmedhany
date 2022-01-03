@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**dev-ahmedhany/dev-ahmedhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/dev-ahmedhany)
+<br/>
+<br/>
+<a href="https://github.com/dev-ahmedhany">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ahmedhany&count_private=true&hide=stars&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/dev-ahmedhany">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedhany&layout=compact&theme=dark&langs_count=4" />
+</a>
